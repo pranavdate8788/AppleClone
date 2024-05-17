@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  @font-face {
+    font-family:'SF Pro Display';
+    font-style:normal;
+    font-weight:100;
+    src:local('☺︎'), url("http://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_ultralight.woff") format("woff"), url("http://www.apple.com/wss/fonts/SF-Pro-Display/v1/sf-pro-display_ultralight.ttf") format("truetype");
+   
+  }
+}
+
+nav {
+  background-color: #161617CC;
+  color: white;
+}
+ 
+.custom-header {
+  font-size: 58px;
+}
+.watch{
+  margin-top: 110px;
+}
+
+ .cont{
+  margin-top: 80px;
+ }
