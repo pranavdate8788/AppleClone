@@ -24,5 +24,21 @@ nav {
 }
 
  .cont{
-  margin-top: 80px;
+  margin-top: 60px;
  }
+ .heading{
+  margin-top: 100px;
+ }
+
+ .img-hover {
+  height: 550px;
+  width: 450px;
+  transition: transform 0.5s, box-shadow 0.5s;
+}
+
+.img-hover:hover {
+  transform: scale(1.01);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+ 
+ 
